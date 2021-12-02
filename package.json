@@ -27,8 +27,6 @@
     "express": "^4.17.1",
     "express-promise-router": "^4.1.1",
     "fs": "^0.0.1-security",
-    "helmet": "^4.6.0",
-    "morgan": "^1.10.0",
     "pg": "^8.7.1"
   },
   "devDependencies": {
